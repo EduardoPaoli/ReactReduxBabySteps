@@ -1,9 +1,8 @@
 export default function() {
     return [
-        {title: 'Book1'},
-        {title: 'Book2'},
-        {title: 'Book3'},
-        {title: 'Book4'},
-        {title: 'Book5'}
+        {title: 'Javascript: The Good Parts', pages: '101'},
+        {title: 'Lord of the Rings', pages: '200'},
+        {title: 'Hobbit', pages: '150'},
+        {title: 'The Alchemist', pages: '278'}
     ]
 }
